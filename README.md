@@ -1,2 +1,0 @@
-# shopifyApp
-Created with CodeSandbox
